@@ -1,0 +1,9 @@
+RefLabel=@geo  StrLabel=GeoStep  Eword=10 E1value=-200.06969530  RECALC=(1,0,0)
+FilRef=mg07-classes023-f.xyz     
+
+!ReadAssignment=admpstat.out_source EpsRecalc=0.02
+
+*Struct
+mg7-admp-6.xyz
+
+
