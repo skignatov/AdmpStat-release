@@ -1,0 +1,12 @@
+admp mg7-admp-6.log_
+out  mg7-admp-6.xyz
+iBeg  0
+iEnd  1000000
+SkipLines  0
+!tBeg  0
+!tEnd  4000000
+Each  10
+MaxS  500000
+Bond 12 12 3.5 
+!Nacf 4000
+
